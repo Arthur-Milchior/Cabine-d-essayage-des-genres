@@ -1,0 +1,42 @@
+{
+    "default": "masculin",
+    "genders": {
+        "masculin": {
+            "un_petit_garçon":"un petit garçon",
+            "du_gamin":"du gamin",
+            "ébauché":"ébauché",
+            "Cet_enfant":"Cet enfant",
+            "un_garçon":"un garçon",
+            "bruyant":"bruyant",
+            "éveillé":"éveillé",
+            "goguenard":"goguenard",
+            "Il":"Il",
+            "il":"il"},
+        
+        "feminin":  {
+            "un_petit_garçon":"une petite fille",
+            "du_gamin":"de la gamine",
+            "ébauché":"ébauchée",
+            "Cet_enfant":"Cet enfant",
+            "un_garçon":"une fille",
+            "bruyant":"bruyante",
+            "éveillé":"éveillée",
+            "goguenard":"goguenarde",
+            "Il":"Elle",
+            "il":"elle"},
+
+        "median": {
+            "un_petit_garçon":"un·e petit·e enfant",
+            "du_gamin":"due la gamin·e",
+            "ébauché":"ébauché·e",
+            "Cet_enfant":"Cet enfant",
+            "un_garçon":"un enfant",
+            "bruyant":"bruyant·e",
+            "éveillé":"éveillé·e",
+            "goguenard":"goguenard·e",
+            "Il":"Iel",
+            "il":"iel"
+        }
+    }
+}
+

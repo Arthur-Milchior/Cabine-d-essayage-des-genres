@@ -1,0 +1,27 @@
+{
+    "default": "masculin",
+    "genders":  {
+        "masculin" : {
+            "Vautrin": "Vautrin",
+            "l_homme": "l’homme",
+            "à_favoris_peints": "à favoris peints",
+            "Il": "Il",
+            "un_fameux_gaillard": "un fameux gaillard",
+            "il": "il",
+            "Lui": "Lui",
+            "qu_il": "qu'il",
+            "lui": "lui"
+        },
+        "feminin" : {
+            "Vautrin": "Vautrin",
+            "l_homme": "la femme",
+            "à_favoris_peints": "à favoris peints",
+            "Il": "Elle",
+            "un_fameux_gaillard": "une fameuse gaillarde",
+            "il": "elle",
+            "Lui": "Elle",
+            "qu_il": "qu'elle",
+            "lui": "elle"
+        }
+    }
+}
